@@ -1,2 +1,2 @@
-# hello-word
+# hello-world
 primer repositorio (de prueba)
